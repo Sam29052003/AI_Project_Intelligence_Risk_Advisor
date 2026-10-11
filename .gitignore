@@ -1,0 +1,32 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# ChromaDB / vector store (large binary)
+data/vector_store/
+data/uploads/
+data/generated_docs/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# Env files
+.env
+.env.local
+
+# Logs
+*.log
+streamlit.log

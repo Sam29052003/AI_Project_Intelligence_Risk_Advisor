@@ -1,0 +1,17 @@
+streamlit
+langchain
+langchain-community
+langchain-huggingface
+chromadb
+sentence-transformers
+pypdf
+python-docx
+python-dotenv
+tiktoken
+transformers
+fpdf2
+tabulate
+plotly
+pandas
+numpy
+scikit-learn
